@@ -12,7 +12,8 @@ Define my own CNN and use a pretrained network (resnet-18).
 
 Python 3.8,  
 PyTorch,  
-MatPlotLib
+MatPlotLib,    
+git LFS
 
 ## Usage
 
@@ -20,8 +21,9 @@ Unzip the dataset folder,
 run cat_dog_2.py to categorise the images and output a set of 20 examples also showing the classification certainty.  
 You can either select to use the pretrained rensnet-18 network, use a pretrained network defined by me, or retrain either using the training function in the code.
 
-
 ## Example Output
+
+
 
 ## References
 
