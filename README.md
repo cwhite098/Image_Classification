@@ -5,7 +5,7 @@ This is my first project using PyTorch for machine learning in Python.
 ## Aims
 
 Understand how to implement, train and use a convolutional neural network to classify images.  
-Give myself a refresher on Python.
+Give myself a refresher on Python.  
 Define my own CNN and use a pretrained network (resnet-18).
 
 ## Technology
